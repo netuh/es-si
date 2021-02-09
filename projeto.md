@@ -27,7 +27,7 @@ Em geral o UNIKUT deve ser capaz de:
 ## Sobre o Projeto
 
 - Projeto que não COMPILAR será ZERADO
-- Todos os projetos serão verificados pela ferramenta MOSS [https://theory.stanford.edu/~aiken/moss/]
+- Todos os projetos serão verificados pela [ferramenta MOSS](https://theory.stanford.edu/~aiken/moss/)
 - entre 20% e 30% os projetos serão monitorados de perto, alguns podem ser chamados a explicar o código.
 - Um índice maior que 30%, o projeto será ZERADO
 
