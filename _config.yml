@@ -14,13 +14,12 @@ author: Waldemar Pires Ferreira Neto
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Curso: "aboutme"
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-  Bibliografia: "aboutme"
+  Curso: "curso"
+  Projeto: "projeto"
+  Aulas:
+    - 1a Fase: "https://beautifuljekyll.com"
+    - 2a Fase: "https://www.markdowntutorial.com/"
+  Bibliografia: "bibliografia"
 
 # --- Logo --- #
 
