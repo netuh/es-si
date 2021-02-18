@@ -4,23 +4,16 @@ title: Bibliografia
 subtitle: "Bibliografia Recomendada"
 ---
 
-# Livro 1
+# Bibliografia Básica
 
-Inicialmente, é apresentada a motivação para a aprender orientação a objeto em detrimento à programação estruturada. O objetivo é fazer com que o aluno compreenda que desenvolver projetos complexos através de programação estruturada torna o desenvolvimento muito difícil. Posteriormente, são abordadas as bases para orientação a objetos e como devem ser usadas.
+- DEITEL, H. M.; DEITEL, P. J. **Java: como programar.** 3. ed. Porto Alegre: Bookman, 2001.
+- ECKEL, Bruce. **Thinking in Java.** 3rd ed. Upper Saddle River, N.J.: Prentice Hall, c2003.
+- HORSTMANN, Cay S; CORNELL, Gary. **Core java 2**. 1. ed. São Paulo: Makron books, 2001.
 
-Assuntos: 
-- Orientação a Objeto
-- Distinção de classe e objeto
-- Herança
-- Visibilidade
-- Polimorfismo
+# Bibliografia Complementar
 
-# Livro 2
-
-O foco nessa etapa está no projeto, implementação e análise tratando de problemas cada vez mais complexos. A ideia é não somente entender as estratégias utilizadas, mas também ter uma ideia clara de suas eficiências e classes de complexidade.
-
-Assuntos:
-- Arquitetura de Software
-- Expressões Lambda
-- Bad Smells
-- Padrões de Projeto
+- CARVALHO, Thiago, **Orientação a Objetos: Aprenda seus conceitos e suas aplicabilidades de forma efetiva**, Casa do Código, 2016.
+- ANICHE, Mauricio, **Orientação a Objetos e SOLID para Ninjas: Projetando classes flexíveis**, 2015, CASA DO CÓDIGO. 
+- LEMAY, Laura; CADENHEAD, Rogers. **Aprenda em 21 dias JAVA 2: professional reference**. Rio de Janeiro: Ed. Campus, 2001.
+- MEYER, B. **Object oriented software construction.** New Jersey: Prentice Hall, 1997.
+- RODRIGUES FILHO, Renato. **Desenvolva aplicativos com Java 2**. São Paulo: Érica, 2005.
