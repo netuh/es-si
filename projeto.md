@@ -7,7 +7,7 @@ subtitle: "Projetos a serem desenvolvidos de acordo com as práticas de ES"
 
 # Descição Básica do Projeto
 
-Cada grupo deve definir sobre o que será seu projeto. Aqui colocarei o que eles serão.
+Cada grupo deve definir sobre o que será seu projeto. Daremos continuidade ao projeto juno com a residência.
 
 # Informações Importantes
 
